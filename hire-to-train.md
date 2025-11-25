@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD;
-    A[Candidate Applies] --> A1[Short Telephonic Interview];
+    A[Candidate Listing] --> A1[Short Telephonic Interview];
     A1 --> B[Online Aptitude Test];
     B --> C[Technical Screening Test];
     C --> D[Communication & HR Round];
