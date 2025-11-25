@@ -2,6 +2,8 @@
 
 ## **Flow Overview**
 
+<table><tr><td style="vertical-align: top; width: 50%;">
+
 ```mermaid
 graph TD;
     A[Candidate Listing] --> A1[Short Telephonic Interview];
@@ -15,6 +17,26 @@ graph TD;
     H --> I[Stipend Phase & Live Projects];
     I --> J[Full-Time Employment @ CodersBrain];
 ```
+
+</td><td style="vertical-align: top; width: 50%;">
+
+### **Assessment Steps**
+
+1. **Short Telephonic Interview**
+
+   * Introduction, communication, interest check
+2. **Online Aptitude Test**
+
+   * Logic, quant, programming basics, English
+3. **Technical Screening Test**
+
+   * MCQs, debugging, coding
+4. **Communication & HR Round**
+
+   * Stability, attitude, bond confirmation
+5. **Final Selection & Offer**
+
+</td></tr></table>
 
 ---
 
@@ -50,13 +72,6 @@ graph TD;
 
 * Top scoring candidates shortlisted
 * Offer email + training schedule shared
-
-```mermaid
-graph LR;
-    A[Aptitude Test] --> B[Technical Test];
-    B --> C[Communication Round];
-    C --> D[Final Selection];
-```
 
 ---
 
