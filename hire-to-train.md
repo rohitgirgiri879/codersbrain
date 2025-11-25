@@ -1,19 +1,6 @@
 # CodersBrain Training-to-Hire Program
 
-<style>
-.container {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-}
-.column {
-  flex: 1;
-}
-</style>
 
-<div class="container">
-
-<div class="column">
 
 ## **Flow Overview**
 
