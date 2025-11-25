@@ -1,5 +1,20 @@
 # CodersBrain Training-to-Hire Program
 
+<style>
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.column {
+  flex: 1;
+}
+</style>
+
+<div class="container">
+
+<div class="column">
+
 ## **Flow Overview**
 
 ```mermaid
@@ -14,7 +29,7 @@ graph TD;
     G --> H[Final Assessment];
     H --> I[Stipend Phase & Live Projects];
     I --> J[Full-Time Employment @ CodersBrain];
-```
+
 
 # **1. Assessment Flow (Pre-Hiring)**
 
