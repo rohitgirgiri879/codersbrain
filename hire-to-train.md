@@ -29,228 +29,275 @@ graph TD;
     G --> H[Final Assessment];
     H --> I[Stipend Phase & Live Projects];
     I --> J[Full-Time Employment @ CodersBrain];
+</div> <div class="column">
+1. Assessment Flow (Pre-Hiring)
+Step 1: Short Telephonic Interview
+Basic introduction
 
+Communication clarity
 
-# **1. Assessment Flow (Pre-Hiring)**
+Interest & commitment check
 
-## **Step 1: Short Telephonic Interview**
+Verify eligibility criteria
 
-* Basic introduction
-* Communication clarity
-* Interest & commitment check
-* Verify eligibility criteria
+Step 2: Online Aptitude Test
+Logical reasoning
 
-## **Step 2: Online Aptitude Test**
+Quantitative ability
 
-* Logical reasoning
-* Quantitative ability
-* Basic programming logic
-* English comprehension
+Basic programming logic
 
-## **Step 3: Technical Screening Test**
+English comprehension
 
-* MCQs on programming fundamentals
-* Debugging questions
-* Small coding problems
+Step 3: Technical Screening Test
+MCQs on programming fundamentals
 
-## **Step 4: Communication & HR Round**
+Debugging questions
 
-* Communication clarity
-* Attitude & stability
-* Interest in 2-year bond
+Small coding problems
 
-## **Step 5: Final Selection & Offer**
+Step 4: Communication & HR Round
+Communication clarity
 
-* Top scoring candidates shortlisted
-* Offer email + training schedule shared
+Attitude & stability
 
----
+Interest in 2-year bond
 
-# **2. Training Flow (6 Months)**
+Step 5: Final Selection & Offer
+Top scoring candidates shortlisted
 
-```mermaid
+Offer email + training schedule shared
+
+</div> </div>
+2. Training Flow (6 Months)
+mermaid
+Copy code
 graph TD;
     A[Month 0–1: Foundation] --> B[Month 2–5: Tech Track Specialization];
     B --> C[Month 6: Final Assessment];
     C --> D[Transition to Stipend Phase];
-```
+Month 0–1: Common Foundation
+Motivational & Engagement Program
+Monthly motivational sessions
 
-## **Month 0–1: Common Foundation**
+Talks by industry experts from top Bangalore colleges
 
-### **Motivational & Engagement Program**
+Interactive Q&A sessions
 
-* Monthly motivational sessions
-* Talks by industry experts from top Bangalore colleges
-* Interactive Q&A sessions to keep students inspired
-* Career growth & tech trends seminars
+Career growth & tech trends seminars
 
-**
+Note: Candidates will also be exposed to basic guided mini-projects during the foundation phase.
 
-**Note:** Candidates will also be exposed to **basic guided mini‑projects** during the foundation phase to build confidence and practical understanding.
+Topics
+Programming basics
 
-* Programming basics
-* Git & Version Control
-* SDLC + Agile + Jira
-* Database basics (SQL + NoSQL)
-* Soft skills & professional communication
+Git & Version Control
 
-## **Month 2–5: Technology Track Specialization**
+SDLC + Agile + Jira
 
-**Note:** Each technology track includes **hands‑on practice with structured mini‑projects**, building gradually toward a final major project.
+Database basics (SQL + NoSQL)
 
-### Tracks:
+Soft skills & professional communication
 
-* Node.js
-* React.js
-* Angular
-* Java Full-Stack
-* Python Backend
-* GoLang
-* Automation Testing
-* DevOps
-* .NET / C#
+Month 2–5: Technology Track Specialization
+Includes:
 
-Each track includes:
+Weekly sprints
 
-* Weekly sprints
-* Practical assignments
-* Live mini-projects
-* Performance reviews
+Practical assignments
 
-## **Month 6: Enterprise Assessment**
+Live mini-projects
 
-* Coding test
-* Project evaluation
-* Presentation + viva
-* Behavioral assessment
+Performance reviews
 
----
+Tracks:
 
-# **3. Curriculum (Per Track)**
+Node.js
 
-## **Foundation Curriculum (Common for All)**
+React.js
 
-* Programming logic
-* Data structures basics
-* Git workflow (branching, PR, conflict handling)
-* SQL fundamentals
-* REST API basics
-* Agile methodologies
-* Communication skills
-* **Modern Topics:**
+Angular
 
-  * API Security Basics
-  * Cloud Fundamentals (AWS/Azure intro)
-  * Docker Basics
-  * CI/CD Introduction
-* Programming logic
-* Data structures basics
-* Git workflow (branching, PR, conflict handling)
-* SQL fundamentals
-* REST API basics
-* Agile methodologies
-* Communication skills
+Java Full-Stack
 
----
+Python Backend
 
-## **Track-Specific Curriculum**
+GoLang
 
-### **Node.js Developer Track**
+Automation Testing
 
-* JavaScript ES6+
-* Node.js & Express.js
-* REST API development
-* MongoDB/PostgreSQL
-* Authentication (JWT)
-* Caching (Redis)
-* Microservices intro
-* Deployment basics
+DevOps
 
-### **React.js Developer Track**
+.NET / C#
 
-* JS ES6+ fundamentals
-* React core + hooks
-* Routing
-* Redux Toolkit / Context
-* API integration
-* UI libraries (Tailwind/MUI)
-* Performance optimization
-* Deployment (Vite/CRA)
+Month 6: Enterprise Assessment
+Coding test
 
-### **Angular Developer Track**
+Project evaluation
 
-* TypeScript
-* Angular architecture
-* RxJS
-* Reactive forms
-* Services, guards
-* Angular Material
-* API integration
-* CI/CD basics
+Presentation + viva
 
-### **Java Full-Stack Track**
+Behavioral assessment
 
-* Java OOP
-* Spring Boot
-* JPA/Hibernate
-* MySQL/PostgreSQL
-* REST APIs
-* Microservices basics
-* JUnit/Mockito
-* Frontend basics (React/Angular)
+3. Curriculum (Per Track)
+Foundation Curriculum (Common for All)
+Programming logic
 
-### **Python Backend Track**
+Data structures basics
 
-* Python OOP
-* Django / FastAPI
-* ORM
-* Celery (background tasks)
-* SQL/NoSQL
-* Testing (PyTest)
-* Deployment
+Git workflow
 
-### **GoLang Track**
+SQL fundamentals
 
-* Go basics
-* Concurrency (goroutines/channels)
-* REST APIs (Gin/Fiber)
-* PostgreSQL
-* Docker + Go
-* Microservices intro
-* CI/CD basics
+REST API basics
 
-### **Automation Testing Track**
+Agile methodologies
 
-* Manual testing
-* Test case writing
-* Selenium WebDriver
-* TestNG/JUnit
-* API testing (Postman/RestAssured)
-* Automation frameworks
-* Reporting (Allure)
+Communication skills
 
-### **DevOps Track**
+Modern Topics
+API Security Basics
 
-* Linux & shell
-* Git
-* CI/CD pipelines
-* Docker
-* Kubernetes
-* Terraform basics
-* AWS fundamentals
-* Monitoring (Grafana)
+Cloud Fundamentals (AWS/Azure)
 
-### **.NET / C# Track**
+Docker Basics
 
-* C# OOP
-* ASP.NET Core
-* EF Core
-* REST API
-* SQL Server
-* Identity & auth
-* Blazor basics
-* Azure deployment
+CI/CD Introduction
 
----
+Track-Specific Curriculum
+Node.js Developer Track
+JavaScript ES6+
 
-**
+Node.js & Express.js
+
+REST APIs
+
+MongoDB/PostgreSQL
+
+JWT Authentication
+
+Redis Caching
+
+Microservices intro
+
+Deployment basics
+
+React.js Developer Track
+React core + hooks
+
+Routing
+
+Redux Toolkit / Context
+
+API integration
+
+Tailwind/MUI
+
+Performance optimization
+
+Deployment
+
+Angular Developer Track
+TypeScript
+
+Angular architecture
+
+RxJS
+
+Reactive forms
+
+Angular Material
+
+API integration
+
+CI/CD basics
+
+Java Full-Stack Track
+Java OOP
+
+Spring Boot
+
+JPA/Hibernate
+
+MySQL/PostgreSQL
+
+REST APIs
+
+Microservices basics
+
+JUnit/Mockito
+
+Frontend basics
+
+Python Backend Track
+Django / FastAPI
+
+ORM
+
+Celery
+
+SQL/NoSQL
+
+PyTest
+
+Deployment
+
+GoLang Track
+Go basics
+
+Concurrency
+
+Gin/Fiber
+
+PostgreSQL
+
+Docker
+
+Microservices intro
+
+CI/CD basics
+
+Automation Testing Track
+Manual testing
+
+Selenium
+
+TestNG/JUnit
+
+API testing
+
+Automation frameworks
+
+Allure reporting
+
+DevOps Track
+Linux
+
+Git
+
+CI/CD pipelines
+
+Docker
+
+Kubernetes
+
+Terraform basics
+
+AWS fundamentals
+
+Monitoring
+
+.NET / C# Track
+C# OOP
+
+ASP.NET Core
+
+EF Core
+
+SQL Server
+
+Identity & auth
+
+Blazor basics
+
+Azure deployment
