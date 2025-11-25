@@ -2,8 +2,6 @@
 
 ## **Flow Overview**
 
-<table><tr><td style="vertical-align: top; width: 50%;">
-
 ```mermaid
 graph TD;
     A[Candidate Listing] --> A1[Short Telephonic Interview];
@@ -17,8 +15,6 @@ graph TD;
     H --> I[Stipend Phase & Live Projects];
     I --> J[Full-Time Employment @ CodersBrain];
 ```
-
-</td><td style="vertical-align: top; width: 50%;">
 
 ### **Assessment Steps**
 
@@ -35,8 +31,6 @@ graph TD;
 
    * Stability, attitude, bond confirmation
 5. **Final Selection & Offer**
-
-</td></tr></table>
 
 ---
 
