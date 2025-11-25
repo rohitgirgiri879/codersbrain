@@ -16,24 +16,6 @@ graph TD;
     I --> J[Full-Time Employment @ CodersBrain];
 ```
 
-### **Assessment Steps**
-
-1. **Short Telephonic Interview**
-
-   * Introduction, communication, interest check
-2. **Online Aptitude Test**
-
-   * Logic, quant, programming basics, English
-3. **Technical Screening Test**
-
-   * MCQs, debugging, coding
-4. **Communication & HR Round**
-
-   * Stability, attitude, bond confirmation
-5. **Final Selection & Offer**
-
----
-
 # **1. Assessment Flow (Pre-Hiring)**
 
 ## **Step 1: Short Telephonic Interview**
