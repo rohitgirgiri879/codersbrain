@@ -4,7 +4,8 @@
 
 ```mermaid
 graph TD;
-    A[Candidate Applies] --> B[Online Aptitude Test];
+    A[Candidate Applies] --> A1[Short Telephonic Interview];
+    A1 --> B[Online Aptitude Test];
     B --> C[Technical Screening Test];
     C --> D[Communication & HR Round];
     D --> E[Final Selection];
@@ -19,26 +20,33 @@ graph TD;
 
 # **1. Assessment Flow (Pre-Hiring)**
 
-## **Step 1: Online Aptitude Test**
+## **Step 1: Short Telephonic Interview**
+
+* Basic introduction
+* Communication clarity
+* Interest & commitment check
+* Verify eligibility criteria
+
+## **Step 2: Online Aptitude Test**
 
 * Logical reasoning
 * Quantitative ability
 * Basic programming logic
 * English comprehension
 
-## **Step 2: Technical Screening Test**
+## **Step 3: Technical Screening Test**
 
 * MCQs on programming fundamentals
 * Debugging questions
 * Small coding problems
 
-## **Step 3: Communication & HR Round**
+## **Step 4: Communication & HR Round**
 
 * Communication clarity
 * Attitude & stability
 * Interest in 2-year bond
 
-## **Step 4: Final Selection & Offer**
+## **Step 5: Final Selection & Offer**
 
 * Top scoring candidates shortlisted
 * Offer email + training schedule shared
@@ -63,7 +71,16 @@ graph TD;
 
 ## **Month 0–1: Common Foundation**
 
-**Note:** Candidates will also be exposed to **basic guided mini-projects** during the foundation phase to build confidence and practical understanding.
+### **Motivational & Engagement Program**
+
+* Monthly motivational sessions
+* Talks by industry experts from top Bangalore colleges
+* Interactive Q&A sessions to keep students inspired
+* Career growth & tech trends seminars
+
+**
+
+**Note:** Candidates will also be exposed to **basic guided mini‑projects** during the foundation phase to build confidence and practical understanding.
 
 * Programming basics
 * Git & Version Control
@@ -73,7 +90,7 @@ graph TD;
 
 ## **Month 2–5: Technology Track Specialization**
 
-**Note:** Each technology track includes **hands-on practice with structured mini-projects**, building gradually toward a final major project.
+**Note:** Each technology track includes **hands‑on practice with structured mini‑projects**, building gradually toward a final major project.
 
 ### Tracks:
 
@@ -107,6 +124,19 @@ Each track includes:
 
 ## **Foundation Curriculum (Common for All)**
 
+* Programming logic
+* Data structures basics
+* Git workflow (branching, PR, conflict handling)
+* SQL fundamentals
+* REST API basics
+* Agile methodologies
+* Communication skills
+* **Modern Topics:**
+
+  * API Security Basics
+  * Cloud Fundamentals (AWS/Azure intro)
+  * Docker Basics
+  * CI/CD Introduction
 * Programming logic
 * Data structures basics
 * Git workflow (branching, PR, conflict handling)
@@ -217,4 +247,4 @@ Each track includes:
 
 ---
 
-# **End of Document**
+**
