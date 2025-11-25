@@ -214,6 +214,8 @@ graph TD;
 - SQL Server  
 - Identity & auth  
 - Blazor basics  
-- Azure deployment  
+- Azure deployment
+
+   Note : Above mentioned list is tentative and will be updated soon with exact curriculumn
 
 ---
